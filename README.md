@@ -1,6 +1,9 @@
 # 💫 About Me:
 👋 Hi, I’m Hafiz Rahim<br><br>🚀 MERN Stack Developer | 💻 Code Learner | 🧠 DSA Enthusiast<br><br>I’m a passionate software engineering student focused on building real-world, scalable web applications.<br>Currently working on Suydemy, a code-learning platform designed to make programming structured, practical, and accessible.<br>Alongside development, I’m strengthening my DSA & problem-solving skills to grow as a strong backend and system-oriented engineer.<br><br>🛠️ Tech Stack<br><br>Frontend:<br>⚛️ React.js | 🟨 JavaScript | 🎨 HTML5 | CSS3 | Tailwind<br><br>Backend:<br>🟢 Node.js | 🚂 Express.js | 🍃 MongoDB | 🔐 JWT | REST APIs<br><br>Tools & Others:<br>🐙 Git & GitHub | 🧪 Postman | 🖥️ VS Code<br><br>📌 Current Focus<br><br>🔨 Building Suydemy (Udemy-like learning platform)<br><br>🧩 Practicing DSA with C++<br><br>🏗️ Improving backend architecture & system design<br><br>📈 Preparing for top tech companies & startup journey<br><br>🎯 Goals<br><br>Become a high-impact full-stack/backend engineer<br><br>Crack top-tier tech roles (FAANG-level)<br><br>Build and scale my own startup<br><br>Write clean, maintainable, production-ready code
 
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rana.raahim) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rana raahim) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@codingo) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@hafiz rahim adnan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hafizrahim3011@gmail.com) 
